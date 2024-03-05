@@ -1,0 +1,15 @@
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\bin\Debug\net8.0\LPC#.exe
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\bin\Debug\net8.0\LPC#.deps.json
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\bin\Debug\net8.0\LPC#.runtimeconfig.json
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\bin\Debug\net8.0\LPC#.dll
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\bin\Debug\net8.0\LPC#.pdb
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.AssemblyInfoInputs.cache
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.AssemblyInfo.cs
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.csproj.CoreCompileInputs.cache
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.sourcelink.json
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.dll
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\refint\LPC#.dll
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.pdb
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\LPC#.genruntimeconfig.cache
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\LPC#\obj\Debug\net8.0\ref\LPC#.dll
