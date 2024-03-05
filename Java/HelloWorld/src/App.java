@@ -2,6 +2,6 @@ public class App
 {
     public static void main (String[] args) throws Exception
     {
-        System.out.println("HelloWorld!");
+        System.out.println("Ikou Z!");
     }
 }
