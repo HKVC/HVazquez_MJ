@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LPC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+957c8fa89eead099cd8c8e8c57c5635b90925aa2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b079d4fa74100e253aa9ed6dba70932fa0f87519")]
 [assembly: System.Reflection.AssemblyProductAttribute("LPC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LPC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
