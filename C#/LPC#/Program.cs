@@ -10,7 +10,7 @@ class Program
 
         Console.WriteLine("Valor de mi variable:" + myVariable);
 
-        Console.WriteLine("Valor de mi constante:" + myConstant); 
+        Console.WriteLine("Valor de mi constante:" + myConstant);
     }
 }
 
