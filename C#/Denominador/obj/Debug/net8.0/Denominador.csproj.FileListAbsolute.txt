@@ -1,0 +1,15 @@
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\bin\Debug\net8.0\Denominador.exe
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\bin\Debug\net8.0\Denominador.deps.json
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\bin\Debug\net8.0\Denominador.runtimeconfig.json
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\bin\Debug\net8.0\Denominador.dll
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\bin\Debug\net8.0\Denominador.pdb
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.AssemblyInfoInputs.cache
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.AssemblyInfo.cs
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.csproj.CoreCompileInputs.cache
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.sourcelink.json
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.dll
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\refint\Denominador.dll
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.pdb
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\Denominador.genruntimeconfig.cache
+C:\Users\hvazquez7120\Desktop\COMP2315\C#\Denominador\obj\Debug\net8.0\ref\Denominador.dll
